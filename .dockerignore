@@ -1,0 +1,9 @@
+.git
+.github
+**/target
+**/.classpath
+**/.project
+**/.settings
+**/*.iml
+tools/jmeter
+repo_audit
